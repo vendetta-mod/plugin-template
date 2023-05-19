@@ -1,0 +1,27 @@
+{
+
+    "name": "NiceExperiments",
+
+    "description": "A plugin to enable account switcher and server discovery.",
+
+    "authors": [
+
+        {
+
+            "name": "You!",
+
+            "id": "YOUR_ID_HERE"
+
+        }
+
+    ],
+
+    "main": "src/index.ts",
+
+    "vendetta": {
+
+        "icon": "ic_badge_staff"
+
+    }
+
+}
